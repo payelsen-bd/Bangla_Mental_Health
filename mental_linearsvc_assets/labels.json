@@ -1,0 +1,39 @@
+{
+  "class_labels": [
+    "Bipolar",
+    "Delusional_love",
+    "Depression",
+    "Eating_disorder",
+    "Fobia",
+    "Generalized_anxiety",
+    "OCD",
+    "Overthinking",
+    "Panic_attack",
+    "Paranoia",
+    "Postpartum_depression",
+    "Schizophrenia",
+    "Social_anxiety",
+    "Somatic_symptom",
+    "Suicidal_tendency",
+    "অতিরিক্ত চিন্তা",
+    "আত্মহত্যামুখী প্রবণতা",
+    "ইটিং ডিসঅর্ডার (Eating Disorders)",
+    "ওসিডি (Obsessive–Compulsive Disorder)",
+    "জেনারালাইজড অ্যাংজাইটি ডিসঅর্ডার (GAD)",
+    "ডিপ্রেশন",
+    "ডেল্যুশনাল লাভ ডিসঅর্ডার (এরোটোমানিয়া)",
+    "পোস্টপার্টাম ডিপ্রেশন (প্রসব-পরবর্তী বিষণ্নতা)",
+    "প্যানিক অ্যাটাক",
+    "প্যারানইয়া",
+    "ফোবিয়া",
+    "বাইপোলার",
+    "সিজোফ্রেনিয়া",
+    "সোমাটিক সিম্পটম ডিসঅর্ডার",
+    "সোশ্যাল অ্যাংজাইটি ডিসঅর্ডার"
+  ],
+  "stage_labels": [
+    "তীব্র",
+    "মাঝারি",
+    "হালকা"
+  ]
+}
