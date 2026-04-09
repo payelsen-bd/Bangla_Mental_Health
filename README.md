@@ -59,6 +59,61 @@ Bangla_Mental_Health/
 │   └── config.yaml               # Hyperparameters & paths
 │
 ├── 📁 logs/                      # Training logs
+
+
+
+
+
+
+---
+
+## 📊 Dataset
+
+- Language: Bangla
+- Categories: 15 mental disorders
+- Includes:
+  - comment_bn
+  - category_bn
+  - stage_bn
+  - response_bn
+
+Synthetic + real-anonymized hybrid data
+
+---
+
+## ⚙️ Methodology
+
+1. Synthetic Data Generation (Python-based)
+2. Data Preprocessing & Cleaning
+3. Exploratory Data Analysis (EDA)
+4. Feature Extraction (TF-IDF)
+5. Model Training (LinearSVC - OvR)
+6. Evaluation (F1, Accuracy, Confusion Matrix)
+7. Explainability (SHAP, LIME)
+
+---
+
+## 📈 Results
+
+- Accuracy: **99.96%**
+- Macro F1-score: **0.9995**
+- Strong generalization across all classes
+
+---
+
+## 🧠 Explainability
+
+- SHAP → Global feature importance
+- LIME → Instance-level explanations
+
+---
+
+## 🛠️ Installation
+
+```bash
+git clone https://github.com/your-username/Bangla_Mental_Health.git
+cd Bangla_Mental_Health
+pip install -r requirements.txt
 │
 ├── requirements.txt              # Dependencies
 ├── README.md                     # Project documentation
