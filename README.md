@@ -68,7 +68,7 @@ Bangla_Mental_Health/
 ---
 
 ## 📊 Dataset
-
+Full dataset is not included due to size issue as there fifteen million data row. A sample dataset is provided for demonstration purposes.
 - Language: Bangla
 - Categories: 15 mental disorders
 - Includes:
