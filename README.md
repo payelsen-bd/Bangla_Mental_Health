@@ -68,18 +68,3 @@ Synthetic + real-anonymized hybrid data
 - SHAP → Global feature importance
 - LIME → Instance-level explanations
 
----
-
-## 🛠️ Installation
-
-```bash
-git clone https://github.com/your-username/Bangla_Mental_Health.git
-cd Bangla_Mental_Health
-pip install -r requirements.txt
-│
-├── requirements.txt              # Dependencies
-├── README.md                     # Project documentation
-├── data.txt                      # Dataset description
-├── .gitignore                    # Ignore unnecessary files
-└── LICENSE                       # License file
-
